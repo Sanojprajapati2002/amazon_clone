@@ -8,3 +8,7 @@ What I used:
 ✅ HTML for structuring
 ✅ CSS for styling
 ✅ A lot of creativity and attention to detail!
+
+
+check it out click belov link:
+https://sanojprajapati2002.github.io/amazon_clone/
